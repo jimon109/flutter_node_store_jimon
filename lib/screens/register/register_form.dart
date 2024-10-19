@@ -2,12 +2,12 @@
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_node_store67/components/custom_textfield.dart';
-import 'package:flutter_node_store67/components/rouded_button.dart';
-import 'package:flutter_node_store67/services/rest_api.dart';
-import 'package:flutter_node_store67/app_router.dart';
-import 'package:flutter_node_store67/main.dart';
-import 'package:flutter_node_store67/utils/utility.dart';
+import 'package:flutter_node_store_jimon/components/custom_textfield.dart';
+import 'package:flutter_node_store_jimon/components/rouded_button.dart';
+import 'package:flutter_node_store_jimon/services/rest_api.dart';
+import 'package:flutter_node_store_jimon/app_router.dart';
+import 'package:flutter_node_store_jimon/main.dart';
+import 'package:flutter_node_store_jimon/utils/utility.dart';
 
 class RegisterForm extends StatelessWidget {
   RegisterForm({super.key});

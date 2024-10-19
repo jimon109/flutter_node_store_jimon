@@ -1,9 +1,9 @@
 // ignore_for_file: prefer_const_constructors, prefer_typing_uninitialized_variables
 
 import 'package:flutter/material.dart';
-import 'package:flutter_node_store67/app_router.dart';
-import 'package:flutter_node_store67/themes/styles.dart';
-import 'package:flutter_node_store67/utils/utility.dart';
+import 'package:flutter_node_store_jimon/app_router.dart';
+import 'package:flutter_node_store_jimon/themes/styles.dart';
+import 'package:flutter_node_store_jimon/utils/utility.dart';
 
 // กำหนดตัวแปร initialRoute ให้กับ MaterialApp
 var initialRoute;

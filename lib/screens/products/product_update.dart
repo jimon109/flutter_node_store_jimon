@@ -2,10 +2,10 @@ import 'dart:convert';
 import 'dart:io';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_node_store67/models/product_model.dart';
-import 'package:flutter_node_store67/screens/bottomnavpage/home_screen.dart';
-import 'package:flutter_node_store67/screens/products/components/product_form.dart';
-import 'package:flutter_node_store67/services/rest_api.dart';
+import 'package:flutter_node_store_jimon/models/product_model.dart';
+import 'package:flutter_node_store_jimon/screens/bottomnavpage/home_screen.dart';
+import 'package:flutter_node_store_jimon/screens/products/components/product_form.dart';
+import 'package:flutter_node_store_jimon/services/rest_api.dart';
 
 class ProductUpdate extends StatefulWidget {
   const ProductUpdate({super.key});

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_node_store67/components/image_not_found.dart';
-import 'package:flutter_node_store67/models/product_model.dart';
-import 'package:flutter_node_store67/utils/constants.dart';
+import 'package:flutter_node_store_jimon/components/image_not_found.dart';
+import 'package:flutter_node_store_jimon/models/product_model.dart';
+import 'package:flutter_node_store_jimon/utils/constants.dart';
 
 class ProductItem extends StatelessWidget {
 

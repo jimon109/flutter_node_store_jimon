@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_node_store67/app_router.dart';
-import 'package:flutter_node_store67/models/product_model.dart';
-import 'package:flutter_node_store67/screens/products/components/product_item.dart';
-import 'package:flutter_node_store67/services/rest_api.dart';
+import 'package:flutter_node_store_jimon/app_router.dart';
+import 'package:flutter_node_store_jimon/models/product_model.dart';
+import 'package:flutter_node_store_jimon/screens/products/components/product_item.dart';
+import 'package:flutter_node_store_jimon/services/rest_api.dart';
 
 // สร้างตัวแปร refreshKey สำหรับการ RefreshIndicator
 var refreshKey = GlobalKey<RefreshIndicatorState>();
